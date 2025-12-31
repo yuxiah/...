@@ -1,9 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>For My Baby</title>
 <style>
 /* ===== General Styles ===== */
 body {
@@ -14,9 +11,9 @@ body {
 }
 
 .container {
-    max-width: 900px;
+    max-width: 480px;
     margin: auto;
-    padding: 40px 20px;
+    width: 100%;
 }
 
 .card {
@@ -244,4 +241,3 @@ function duckClick() {
     <footer>I love you, always my mataray na dabe :P</footer>
 </div>
 </body>
-</html>
